@@ -1,7 +1,7 @@
 # 🩸 PulsePact: Community Blood Donor Finder
 
 <div align="center">
-  <img src="./src/assets/images/pulsepact-preview.png" alt="PulsePact Preview UI" width="900" />
+  <img src="./pulsepact-preview.png" alt="PulsePact Preview UI" width="900" />
 </div>
 
 > **Connecting Donors. Saving Lives.** <br/>
