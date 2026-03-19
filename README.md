@@ -1,4 +1,4 @@
-#                                                    🩸 PulsePact: Community Blood Donor Finder
+#                                                  🩸 PulsePact: Community Blood Donor Finder
 
 <div align="center">
   <img src="./pulsepact-preview.png" alt="PulsePact Preview UI" width="900" />
